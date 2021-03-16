@@ -1,4 +1,4 @@
-package leetcode359;
+package leetcode.q359;
 
 import java.util.HashMap;
 
